@@ -9,5 +9,6 @@ This project took 2.5 hours to complete it😀.
 
 Below is the link and the view of the webpage👇👇👇
 <br>
+[Restra](restra.netlify.app)
 
 ![Restaurant](project2css.png)
